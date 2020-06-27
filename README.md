@@ -4,9 +4,6 @@
 # DiceApp 
 
 
-
-
-
 ## Simple dice app to demonstrate the following concepts : 
 
 - How to use Flutter stateless widgets to design the user interface.
